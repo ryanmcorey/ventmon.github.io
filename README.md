@@ -1,6 +1,6 @@
 # Ventmon Website
 
-Engineering website for Ventmon project. [](http://ventmon.github.io)
+Engineering website for Ventmon project. [http://ventmon.github.io]()
 
 ### Publishing to Website
 
